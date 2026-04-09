@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+
+# Собранные файлы
+*.exe
+*.obj
+*.dll
+*.lib
+
+# Пользовательские настройки
+*.user
+*.suo
